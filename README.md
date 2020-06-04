@@ -1,5 +1,7 @@
 # To Do Project
 
+Just a simple todo app with django framework with CRD features.
+
 ## Running the App
 
 ```
